@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { toSlug } from '@thefakeorg/utils';
+import { toSlug } from '@lecstor/utils';
 
 export interface SlugProps {
   message: string;

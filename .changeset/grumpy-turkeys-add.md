@@ -1,5 +1,5 @@
 ---
-'@thefakeorg/utils': patch
+'@lecstor/utils': patch
 ---
 
 Add new sum method
