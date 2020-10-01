@@ -6,7 +6,7 @@ module.exports = {
   ],
   "settings": {
     "react": {
-      "version": "999.999.999"
+      "version": "detect"
     }
   }
 }
